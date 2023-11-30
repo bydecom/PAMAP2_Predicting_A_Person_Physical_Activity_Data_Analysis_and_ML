@@ -1,0 +1,1 @@
+# PAMAP2_Predicting_A_Person_Physical_Activity_Data_Analysis_and_ML
